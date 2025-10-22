@@ -104,18 +104,6 @@ PHPUnit • Jest • Cypress • SonarQube • PHP CS Fixer
 
 ---
 
-##  En Chiffres
-
-| Métrique | Valeur |
-|----------|---------|
-| 🎂 Années d'expérience | +10 ans |
-| 👥 Experts dans l'équipe | 5+ développeurs |
-| 🚀 Projets livrés | 100+ |
-| 🌍 Pays couverts | France & International |
-| ⏰ Disponibilité | Lun-Sam 9h-18h |
-
----
-
 ##  Nos Services
 
 ###  **Conseil & Cahier des Charges**
